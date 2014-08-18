@@ -12,6 +12,5 @@ head(data)  # first few rows
 tail(data)  # last few rows
 
 
-# exploring the variables
-View(data)  # viewing the data set in a new window
-fix(data)  # manually editing the data
+# sumaary statistics
+summary(data)
